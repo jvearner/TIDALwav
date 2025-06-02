@@ -1,4 +1,4 @@
-# TIDALwav
+# TIDAL<sub>wav</sub>
 ## A self-hosted music streaming platform
 
 ### Hardware Used 
