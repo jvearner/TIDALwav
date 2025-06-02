@@ -23,4 +23,4 @@
 
 ### Listening Instructions
 
-Because Navidrome is developed using the [Subsonic API](https://www.navidrome.org/docs/developers/subsonic-api/), you can listen to your music files using any number of [music players](https://airsonic.github.io/docs/apps/).
+Because Navidrome is developed using the [Subsonic API](https://www.navidrome.org/docs/developers/subsonic-api/), you can listen to your music files using any number of [music players](https://airsonic.github.io/docs/apps/). I am partial to [Symfonium](https://symfonium.app/).
